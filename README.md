@@ -1,1 +1,3 @@
-# poke-app
+# Em construção...
+
+<img align="center" alt="" width="850" height="430" src="https://raw.githubusercontent.com/a-hayana/poke-app/main/view.gif">
