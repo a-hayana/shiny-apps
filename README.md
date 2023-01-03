@@ -2,9 +2,10 @@
 
 <hr>
 
-# <img align="center" alt="" width="25" height="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/116/white-medium-star_2b50.png">  Aplicativo Pokémon (Em construção...)
-### 💹 Acesso em: https://ariane-app.shinyapps.io/pokeapp/
-<img align="center" alt="" width="850" height="430" src="https://raw.githubusercontent.com/a-hayana/poke-app/main/view.gif">
+# <img align="center" alt="" width="25" height="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/116/white-medium-star_2b50.png">  Aplicativo Pokémon premiado no curso de [Dashboards II - R/Shiny da Curso-R](https://loja.curso-r.com/construindo-dashboards-ii.html)
+`Golem` `R/Shiny` `R` `HTML & CSS`
+### 💹 Acesso em: https://ariane-hayana.shinyapps.io/pokeapp/
+<img align="center" alt="" width="850" height="430" src="https://github.com/a-hayana/shiny-apps/blob/main/gif.gif">
 
 <br>
 
